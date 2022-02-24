@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Narrative of the most deplorable death and burial of that never to be forgotten pattern of love to his countrey, Capt. William Bedlow, who deceased the 20th of August 1680 with his attestations that he left in writing for the good of this nation, concerning the late damnable plot ... with the text preach'd at his funeral ... also a true account of the murder commited by the Earl of Pembroke, on the watch belonging to Chiswick ... with the whole relation of the two prophets at Tholouze, in France ... with their nine prophecies.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52641</idno>
+            <idno type="STC">Wing N199A</idno>
+            <idno type="STC">ESTC R41534</idno>
+            <idno type="EEBO-CITATION">31355522</idno>
+            <idno type="OCLC">ocm 31355522</idno>
+            <idno type="VID">110511</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52641)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110511)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1748:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Narrative of the most deplorable death and burial of that never to be forgotten pattern of love to his countrey, Capt. William Bedlow, who deceased the 20th of August 1680 with his attestations that he left in writing for the good of this nation, concerning the late damnable plot ... with the text preach'd at his funeral ... also a true account of the murder commited by the Earl of Pembroke, on the watch belonging to Chiswick ... with the whole relation of the two prophets at Tholouze, in France ... with their nine prophecies.</title>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bedloe, William, 1650-1680.</term>
+               <term>Pembroke, Philip Herbert, --  Earl of, 1653-1683.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Murder --  England --  London --  17th century.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110511:1"/>
+            <!-- PDF PAGE 46 -->
+            <p>A NARRATIVE Of the moſt deplorable Death and Burial of that never to be forgotten pattern of Love, to his Countrey, Capt. William Bedlow, Who deceaſed the <hi>20th.</hi> day of <hi>Auguſt,</hi> 1680. With his At<g ref="char:EOLhyphen"/>teſtations that he left in Writing for the good of this Na<g ref="char:EOLhyphen"/>tion, concerning the late Damnable <hi>PLOT</hi> contrived by the <hi>Papiſts</hi> to Deſtroy the King, and Subvert the Government. With the Text Preach'd at his Funeral.</p>
+            <q>
+               <bibl>
+                  <hi>Rom. 14.</hi> v. <hi>12, 13.</hi>
+               </bibl>
+               <p>So then every one of us ſhall give an Account of himſelf to God.
+Let us not therefore judge one another any more, but judge this rather, that no man put a ſtumbling-block, or an occaſion to fall in his Brothers way.</p>
+            </q>
+            <p>Alſo a True account of the Murder com<g ref="char:EOLhyphen"/>mited by the Earl of <hi>Pembrook,</hi> on the Watch belonging to <hi>Chiſwick,</hi> where there was Two Killed, and One Wounded, but ſome hopes of his Recovery: The Jury upon Debate not finding him Guilty, it being not poſitively to be found whether he did it in his own defence, or in preſumption of his own ſtrength, and Atte<g ref="char:EOLhyphen"/>ſtation of the Kings Watch.</p>
+            <p>With the whole Relation of The Two PROPHETS at <hi>Tholouze,</hi> in <hi>France.</hi>
+            </p>
+            <p>Shewing how they were Impriſoned, and that they could not be detained, their Chains drop<g ref="char:EOLhyphen"/>ping off; And ſo by the Magiſtrates they were ſet free to follow their uſual Progreſs in the Teaching of God<g ref="char:EOLhyphen"/>lineſs, and the preparation for the <hi>Day of Judgement,</hi> which, they ſay, will be in the Year 1690.</p>
+            <p>
+               <hi>With their Nine PROPHECIES.</hi>
+            </p>
+            <p>Printed for <hi>P. Brooksby</hi> at the <hi>Hoſpital-gate</hi> in <hi>Weſt-ſmithfield.</hi>
+            </p>
+            <pb facs="tcp:110511:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 47 -->
+            <pb facs="tcp:110511:2"/>
+            <!-- PDF PAGE 47 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:110511:3"/>
+            <!-- PDF PAGE 48 -->
+            <head>A Narrative of Three Remarkable Stories, &amp;c.</head>
+            <div type="part">
+               <p>MY Deſire of ſecuring Truth from the Out-rages of ill Men, eſpecially when the publick is concern'd, have prevail'd with me to give a ſhort Account of the Sickneſs and Death of Captain <hi>Bedlow.</hi> On <hi>Munday</hi> the <hi>9th.</hi> Day of this Inſtant, he came very ill from <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> having the Head-ach, and an extream Looſeneſs moſt part of that Day; the next Day after he came home, he was ſeized with a moſt violent Vomiting and Looſeneſs; Phyſitians were ſent for, who attended him three days, but his Diſtemper encreaſing, on <hi>Thurſday</hi> Two other Phyſitians were joyn'd in Conſultation a<g ref="char:EOLhyphen"/>bout him; his Diſeaſe ſtill grew upon him, and he be<g ref="char:EOLhyphen"/>ing very Apprehenſive that it would iſſue in his Death, and underſtanding that the Lord Chief Juſtice <hi>North</hi> would be there to hold the Aſſizes the <hi>16th.</hi> Inſtant, ex<g ref="char:EOLhyphen"/>preſſed a very great deſire to ſpeak with his Lordſhip for diſcharging of his conſcience, in depoſing ſome what which he had not before diſcloſed; with which his Lordſhip being made acquainted, was pleaſed that night at his Requeſt to go to him; before whom he did by ma<g ref="char:EOLhyphen"/>ny repeated Aſſeverations, upon the Words of a Dying Man, declare, <hi>That in all the great buſineſs of the Plot he ſpoke nothing againſt any Perſon upon Oath, or otherwiſe by way of Accuſation, but what was true;</hi> and only complain'd that he had been too timerous, and rather leſſened his Evidence in ſome particulars.</p>
+               <p>After ſome ſhort time, the Company were deſired to withdraw; and none being left with him but the Lord Chief Juſtice, Capt. <hi>Bedlow</hi>'s Wife, and the Judges Clerk; My Lord gave the ſaid Mr. <hi>Bedlow</hi> his Oath, and his Clerk took a pretty long Depoſition in Writing, the Contents whereof are yet <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thus fer we know
+<pb n="2" facs="tcp:110511:3"/>
+                  <!-- PDF PAGE 48 -->he made Oath, That whatſoever he had declared to the King and Council, and the Secret Committee, and at the ſeveral Tryals upon Oath, were all true, upon the word of a dying man. He told the Judge he expected no Crown of Martyrdom for Lying, as the <hi>Papiſts</hi> did, but what he ſaid was ſincerely true, as he was ſhortly to appear before the great <hi>Iehovah,</hi> the maker of all fleſh where he ſhould ſtand with a clear Conſcience as to all matters of the Plot, wherein he had given Evidence. He ſaid morever to the Judge: My Lord, ſome will not believe the Plot, or pretend it at leaſt. My Lord, I ſpeak the more, becauſe I know not but that I may dye this night. He very often ſaid to my Lord Chief Juſtice with great earneſtneſs, My Lord! I pitty the King! I pitty the King! His life is in danger! they will Poyſon, or cut him off! they are going towards it! they are carry<g ref="char:EOLhyphen"/>ing on the Plot! the <hi>Papiſts</hi> will Kill Him! when my Lord was going away, he called him back again, took him by the hand, and beg'd him to preſent his moſt Humble Duty to the King, and to tell him he was His moſt loy<g ref="char:EOLhyphen"/>al and dutiful Subject, and to beſeech Him to take care of Himſelf.</p>
+               <p>
+                  <hi>Tueſday</hi> the <hi>17th.</hi> of <hi>Auguſt,</hi> towards the Evening, he appear'd worſe than he had been all his ſickneſs before; ſome about him asking him ſeveral Queſtions about his Dedoſition; he replyed, He was a very weak man, and would talk no more of Temporal things.</p>
+               <p>
+                  <hi>Wedneſday</hi> he had a ſevere Fit, through the violence of which, he ſpake not for the ſpace of 14 hours, or thereabouts. <hi>Thurſday</hi> in the Evening his ſpeech re<g ref="char:EOLhyphen"/>turned to him, and he took ſome refreſhment, and asked thoſe about him what day of the Month it was? and what hour of the day, exactly? One ſtanding by, asked him if he were ſatisfied in his Conſcience as to what he
+<pb n="3" facs="tcp:110511:4"/>
+                  <!-- PDF PAGE 49 -->had ſworn and acted in the publick buſineſs he had been involved in? His Anſwer was, <hi>That as he hoped for Salvation, all that he had ſworn about the Plot was juſt and true, and that he had rather omitted, than augmented any thing he had given in Evidence.</hi> This he ſpoke the night before he dyed, and after he had been in a Trance ſever<g ref="char:EOLhyphen"/>al hours.</p>
+               <p>
+                  <hi>Friday</hi> the <hi>20th.</hi> of <hi>Auguſt</hi> Inſtant, his Speech failed him again, and returned no more; and about Two of the Clock that Afternoon he expired.</p>
+               <p>Yeſterday being <hi>Sunday,</hi> after he had been publickly expoſed in <hi>Merchant-Taylors</hi> Hall, in this City, to the view of all Spectators, his Corps was carried thence a<g ref="char:EOLhyphen"/>bout Six of the Clock in the Evening, and buried in the <hi>Mayors Chappel,</hi> called the <hi>Gaunts;</hi> the Funeral was attended with a very numerous Company of Citizens, both Men and Women. Mr. Mayor, and others of the beſt Quality being preſent, ſeveral Gentlemen of the Council, and others bearing up the Pall. Church was hung with Black. Mr. <hi>Palmer,</hi> a-Reverend and Learned Divine of the City, Preached an excellent Ser<g ref="char:EOLhyphen"/>mon at his Funeral, on <hi>Rom.</hi> 14. <hi>v.</hi> 12, 13. <hi>So then e<g ref="char:EOLhyphen"/>very one of us ſhall give an account of himſelf to God. Let us not therefore judge one another any more, but judge this rather, that no man put a ſtumbling-block, or an occaſion to fall in his Brothers way.</hi> There were Eſcutcheons fixed to the Hearſe, with this Inſcription in black letters in a Field-Argent.</p>
+               <q>
+                  <p>Teſtimonium quod vivens Exhibuit<lb/>
+Morins conſtanter Obfirmavit!</p>
+               </q>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>PHillip</hi> Earl <hi>Pembrook</hi> and <hi>Mountgomery,</hi> with ſeve<g ref="char:EOLhyphen"/>ral other of his Retinue, having been abroad at Dinner at a Perſon of Qualities, on Wedneſday being the <hi>11th.</hi> of this Inſtant <hi>Auguſt,</hi> 1680;
+<pb n="4" facs="tcp:110511:4"/>
+                  <!-- PDF PAGE 49 -->where drinking till it was late, and then, as it is ſaid, be<g ref="char:EOLhyphen"/>ing ſomewhat High flown with Wine, they returned homewards in a Hackney-Coach, till at laſt croſſing over <hi>Turnham-Green,</hi> they were ſtopped by the Watch belong<g ref="char:EOLhyphen"/>ing to the Pariſh of <hi>Chiſwick,</hi> the Conſtable of the ſaid Watch being then with one Mr. <hi>Smeethe,</hi> a Gentleman belonging to the Court, and one Mr. <hi>Halfpenny,</hi> another Conſtable of the ſaid Pariſh, who juſt came from <hi>London</hi> with the former Conſtable, and went to drink at the Cock and Half-Moon, who upon notice of a Coach be<g ref="char:EOLhyphen"/>ing ſtopped, came out of the Houſe, and coming cloſe up to the ſide of it, demanded who the perſons were, and whether they were deſigned, not knowinſt it to be my Lord of <hi>Pembrook,</hi> nor that they had ſuch dangerous per<g ref="char:EOLhyphen"/>ſons to deal withal; but being ſharply anſwered, they made the like Return, whereupon, as it is creditably re<g ref="char:EOLhyphen"/>lated, his Lorſhip opening the other ſide of the Coach, came out, and whilſt the parties beforementioned were talking to the reſt, not dreaming of ſuch a Fate, he came upon them unawares, and with his Sword run <hi>Smeethe</hi> firſt into the Belly quite through, the weapon paſſing out, and then wheeling about, made at <hi>Halfpenny,</hi> and with a paſs run him quite through the Body, in on one ſide, and out of the other; and afterwards through the Riſt, ſo furious was he to deſtruction bent; and had done greater miſchief, had not Mr. <hi>Smeethe</hi> feeling himſelf wounded, cryed out, I will not be thus killed like a Dog, and there<g ref="char:EOLhyphen"/>upon caught a Staff out of one of the Watchmens hands, he having none before, and with the ſame knocked his Lordſhip down, who then began to cry for Quarter, up<g ref="char:EOLhyphen"/>on which his Servants came and fell upon him to ſave him from Blows, which <hi>Smeethe</hi> ſeeing, ſaid, My Lord, you have given me my Deaths-wound, and I could Kill you not having you thus at my mercy, if I pleaſed, but
+<pb n="5" facs="tcp:110511:5"/>
+                  <!-- PDF PAGE 50 -->that I ſcorn ſo foul and baſe a Deed, and thereupon ſeiz<g ref="char:EOLhyphen"/>ed him as his Priſoner, whilſt the reſt of his Retinue which were about ſix in number, were oblieged to ſub<g ref="char:EOLhyphen"/>mit; ſeveral of the Watchmen having broke their Staves in deſending themſelves, and making a ſtout Re<g ref="char:EOLhyphen"/>ſiſtance: after his Lordſhip was taken, he was by the Order of the Conſtable of the Watch, conveyed to the Cock and Half-Moon, ſtrongly Guarded, for upon the Brunt of the Skirmiſh, all the people in the Green were Alarum'd, where they, after he was diſarm'd, put him into a Chamber, and the Conſtable went in and diſcour<g ref="char:EOLhyphen"/>ſed with his Lordſhip of the heinouſneſs of the Affront and Violence he had done to the Kings Watch, at which he ſeemed little concerned.</p>
+               <p>During the Uproar and Tumult, a perſon of Quality as it is ſaid, came by, who underſtanding what the cauſe of it was, and how his Lordſhip was taken, went to viſit him, and after a long conference with the Conſtable of the watch, his Lordſhip was ſuffered to depart, unknown to moſt of the Company; they being given to underſtand that he was aſleep, and that none muſt diſturb him, <hi>&amp;c.</hi> This Exploit was done about twelve of the Clock in the Evening, and after his Lordſhip was let go, which was about One, it is ſaid he made all ſpeed for <hi>London:</hi> He being gone, the Wounded men were looked after, and Chirurgions immediately ſent for, who no ſooner came, but found two wounds to be Mortal, one, <hi>viz. Halfpenny</hi> having bled ſo exceſſively, that he fainted away; and the other, <hi>viz. Smeethe,</hi> in a ſhort time afterwards dyed, he being a Man of a conſiderable Eſtate, and ſo ſtout, that it is believed, had he not been ſurprized at unawares and unarmed as he was, none could have wronged him either with Sword or Staff; and a perſon ſo far from offering an abuſe to any, that he abhor'd the Company
+<pb n="6" facs="tcp:110511:5"/>
+                  <!-- PDF PAGE 50 -->of ſuch as he knew to be Guilty of the ſame. Mr. <hi>Half<g ref="char:EOLhyphen"/>penny</hi> being carried home, the Chirurgions upon ſight of his Wound, durſt not venture to ſearch the wound to any deepneſs, for fear that his Lungs ſhould be pierced, or ſome other of his Vital parts; ſo that they diſpair of his ever recovering, and look every day that he will dye; there was likewiſe a third perſon hurt, <hi>viz.</hi> a poor Fellow who was lately diſcharged from a Farmers Ser<g ref="char:EOLhyphen"/>vice of that place, but his wounds were but ſlight. On Fryday the Coroner and his Jury ſat upon the deceaſed, but could not agree in giving in their Verdict.</p>
+            </div>
+            <div type="letter">
+               <head>A Letter from <hi>Tholouze,</hi> in <hi>France.</hi>
+               </head>
+               <p>A Few Days ſince arrived in this City Two very An<g ref="char:EOLhyphen"/>tient Men who call themſelves Apoſtles, and they ſay they have the Spirit of Truth: No perſon at any time ever ſaw them enter into this City: They go in ſuch an extraordinary ſtrange Habit as never was ſeen before in any Country in the World. They walk about the Streets Preaching and Exhorting the people to Re<g ref="char:EOLhyphen"/>pent, and do Pennance, and to quit their evil lives, be<g ref="char:EOLhyphen"/>cauſe they ſay that God is angry againſt the <hi>Romans;</hi> They ſay that this City is as another <hi>Sodom,</hi> and that the Iniquity of this People is mounted up to Heaven, and that within Three Months (if they Repent not, and a<g ref="char:EOLhyphen"/>mend their Lives) this City ſhall be Deſtroy'd by Fire as <hi>Sodom</hi> was. They have continued ſtill in this City Preaching from Day to Day; they go with their Feet bare, and their Hands and Eyes always lifted up to Hea<g ref="char:EOLhyphen"/>ven; They have not been known to ſleep ever ſince they came hither; they have been often forbidden by the Magiſtrates to preach; but they anſwer'd, they were ſent on the behalf of God, to move the people to Repent and do pennance; whereupon they were cauſed to be put into priſon, where ſeveral <hi>Jeſuits</hi> and Learned Men went to viſit them, and Diſputed with them in the <hi>Lu<g ref="char:EOLhyphen"/>tin,
+<pb n="7" facs="tcp:110511:6"/>
+                     <!-- PDF PAGE 51 -->Greek, Hebrew,</hi> and <hi>Chaldean</hi> Languages. They cer<g ref="char:EOLhyphen"/>tainly know thoſe that live a Wicked Life; And when any ſuch come before them, they particularly Exhort them to Repent, and amend their Lives. Their Food is nothing but Bread and Water; they lift up their Hands and Eyes continually towards Heaven, and are continu<g ref="char:EOLhyphen"/>ally exhorting the people to Repentance; They preciſe<g ref="char:EOLhyphen"/>ly nominate the Day that our Saviour ſhall come to Judgement in: And when they were asked how long time ſhall yet paſs before the general day of Judgement? they anſwered, That the World ſhall have an end in the Year <hi>One Thouſand Six Hundred and Ninety;</hi> But about two or three Years before that time, all the Chriſtian World ſhould be troubled with Wars; they ſay they are much above a <hi>Thouſand Years</hi> of Age; And being ask'd from whence they came, they anſwer'd, they came from <hi>Damaſcus</hi> a City in <hi>Gallilea,</hi> and were ſent by God to preach Repentance to the World. The <hi>Jeſuits</hi> have obtained of our Magiſtrates, that theſe Men ſhould be ſent to <hi>ROME</hi> to the <hi>POPE;</hi> But theſe (Apo<g ref="char:EOLhyphen"/>ſtles as they call themſelves) Anſwer'd, <hi>That they knew very well all that muſt happen unto them; And that it was altogether unneceſſary to force them, for they had a great Deſire to go voluntarily to</hi> ROME: their Chains were made of ſtrong and heavy Iron: And when they were in the Streets, &amp; their Chains very ſtrongly faſtened on their Legs, they brake them in pieces before the people.</p>
+               <p>They Propheſied that
+<list>
+                     <item>In the Year  <hi>1681,</hi>ſhall be Wars over all.</item>
+                     <item>In the Year <hi>1682,</hi> ſhall be no <hi>Pope,</hi> and    <hi>Rome</hi> ſhall have no Head.</item>
+                     <item>In the Year <hi>1683,</hi> they ſhall Preach throughout the World.</item>
+                     <item>In the Year <hi>1684,</hi> ſhall Jeſus Chriſt be known to M<gap reason="illegible" extent="6+ letters">
+                           <desc>••••••…</desc>
+                        </gap>.</item>
+                     <item>In the Year <hi>1685,</hi> a great Man ſhall riſe.</item>
+                     <item>In the Year <hi>1686,</hi> a great Earthquake ſhall happen.</item>
+                     <item>In the Year <hi>1687,</hi> All <hi>Africa</hi> ſhall burn.</item>
+                     <item>In the Year <hi>1688,</hi> The four parts of the World ſhall be greatly Aſtoniſh'd. And.</item>
+                     <item>In the Year <hi>1689,</hi> ſhall be the time when God ſhall Judge the World.</item>
+                  </list>
+               </p>
+               <pb facs="tcp:110511:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 51 -->
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
